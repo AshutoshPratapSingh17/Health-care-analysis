@@ -64,6 +64,7 @@ markdown
 Copy
 Edit
 ![Correlation Heatmap](https://github.com/AshutoshPratapSingh17/Health-care-analysis/blob/main/Health%20Care.png)
+![Stroke](https://github.com/AshutoshPratapSingh17/Health-care-analysis/blob/main/chart.png)
 
 ✅ Use Cases
 Public health policy analysis
