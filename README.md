@@ -63,8 +63,8 @@ Statsmodels – for regression and statistical testing (optional)
 markdown
 Copy
 Edit
-![Age vs BMI](images/age_bmi_plot.png)
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](https://github.com/AshutoshPratapSingh17/Health-care-analysis/blob/main/Health%20Care.png)
+
 ✅ Use Cases
 Public health policy analysis
 
